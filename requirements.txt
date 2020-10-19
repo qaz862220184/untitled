@@ -1,0 +1,8 @@
+lxml==4.5.2
+fake_useragent==0.1.11
+requests==2.24.0
+xlrd==1.2.0
+openpyxl==3.0.4
+PyMySQL==0.10.0
+beautifulsoup4==4.9.3
+pyppeteer==0.2.2
